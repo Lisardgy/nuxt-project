@@ -13,5 +13,9 @@
     "@types/node": "^18.17.1",
     "nuxt": "^3.6.5",
     "nuxt-windicss": "^2.6.1"
+  },
+  "dependencies": {
+    "@pinia/nuxt": "^0.4.11",
+    "pinia": "^2.1.6"
   }
 }
